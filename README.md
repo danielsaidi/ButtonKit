@@ -65,7 +65,7 @@ This library is localized in the following languages:
 * 🇪🇸 Spanish
 * 🇸🇪 Swedish
 
-You can add more locales to the `Localizable.xcstrings` file in the `Resources` folder.  
+You can add more locales to the `Localizable.xcstrings` file in the `Resources` folder, then localize them as described in [this blog post](https://danielsaidi.com/blog/2025/06/08/using-ai-and-cursor-to-localize-xcode-string-catalogs).
 
 
 
